@@ -1,0 +1,30 @@
+//THIS IS A TEMPLATE - ADAPT TO NEED
+
+Mini application tests focus on visual aspects (showcase, widget browser). Overall they should be a lot less time-consuming than full tests. Details about the mini tests will be noted on the test sheets.
+
+Unless otherwise noted, the latest stable version of each browser must be used.
+
+
+Desktop and Website
+  - Safari OSX
+  - IE9
+  - IE11
+  - Firefox stable
+  - Chrome stable
+
+Mobile
+  - Android Browser 4.4 (Nexus 7)
+  - Android 4.3 (Nexus Phone)
+  - Safari iOS (iPad)
+  - IE WinPhone (HTC 8S)
+  - Safari (iPhone 5s)
+
+Toolchain
+  - Win8
+  - Linux
+  - OSX
+  - Win7
+
+Libraries
+  - Rhino
+  - Node.js
